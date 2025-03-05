@@ -74,7 +74,7 @@ const ContactUs: React.FC = () => {
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-white">Email</h4>
                   <a href="mailto:contact@example.com" className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">
-                    contact@example.com
+                    krishanmbv@fearlessmails.com
                   </a>
                 </div>
               </div>
@@ -84,12 +84,12 @@ const ContactUs: React.FC = () => {
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-white">Instagram</h4>
                   <a 
-                    href="https://instagram.com/anshopi__" 
+                    href="https://instagram.com/krishan_politics" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 flex items-center"
                   >
-                    @anshopi__ <ExternalLink className="h-3 w-3 ml-1" />
+                    @krishan_politics <ExternalLink className="h-3 w-3 ml-1" />
                   </a>
                 </div>
               </div>
@@ -99,12 +99,12 @@ const ContactUs: React.FC = () => {
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-white">Telegram</h4>
                   <a 
-                    href="https://t.me/cyber_ansh" 
+                    href="https://t.me/censored_politicsss" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 flex items-center"
                   >
-                    t.me/cyber_ansh <ExternalLink className="h-3 w-3 ml-1" />
+                    t.me/censored_politicsss <ExternalLink className="h-3 w-3 ml-1" />
                   </a>
                 </div>
               </div>
