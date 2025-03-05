@@ -72,13 +72,13 @@ const PrivacyPolicy: React.FC = () => {
         </p>
         <div className="mt-4">
           <p className="text-gray-600 dark:text-gray-400">
-            Instagram: <a href="https://instagram.com/anshopi__" target="_blank" rel="noopener noreferrer" className="text-primary-600 dark:text-primary-400">@anshopi__</a>
+            Instagram: <a href="https://instagram.com/krishan_politics" target="_blank" rel="noopener noreferrer" className="text-primary-600 dark:text-primary-400">Krishan_politics</a>
           </p>
           <p className="text-gray-600 dark:text-gray-400">
-            Telegram: <a href="https://t.me/cyber_ansh" target="_blank" rel="noopener noreferrer" className="text-primary-600 dark:text-primary-400">t.me/cyber_ansh</a>
+            Telegram: <a href="https://t.me/censored_politicsss" target="_blank" rel="noopener noreferrer" className="text-primary-600 dark:text-primary-400">Krishan</a>
           </p>
           <p className="text-gray-600 dark:text-gray-400">
-            Email: <a href="mailto:contact@example.com" className="text-primary-600 dark:text-primary-400">contact@example.com</a>
+            Email: <a href="mailto:contact@example.com" className="text-primary-600 dark:text-primary-400">krishanmbv@fearlessmails.com</a>
           </p>
         </div>
       </div>
