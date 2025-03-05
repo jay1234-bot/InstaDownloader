@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4">
               <a 
-                href="https://instagram.com/anshopi__" 
+                href="https://instagram.com/krishan_politics" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-primary-600 dark:text-gray-400 dark:hover:text-primary-400 transition-colors duration-200"
@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
                 <Instagram size={20} />
               </a>
               <a 
-                href="https://t.me/cyber_ansh" 
+                href="https://t.me/censored_politicsss" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-primary-600 dark:text-gray-400 dark:hover:text-primary-400 transition-colors duration-200"
@@ -66,13 +66,13 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Contact Us</h3>
             <p className="text-gray-600 dark:text-gray-400 mb-2">
-              Instagram: <a href="https://instagram.com/anshopi__" target="_blank" rel="noopener noreferrer" className="text-primary-600 dark:text-primary-400">@anshopi__</a>
+              Instagram: <a href="https://instagram.com/krishan_politics" target="_blank" rel="noopener noreferrer" className="text-primary-600 dark:text-primary-400">@krishan_politics</a>
             </p>
             <p className="text-gray-600 dark:text-gray-400 mb-2">
-              Telegram: <a href="https://t.me/cyber_ansh" target="_blank" rel="noopener noreferrer" className="text-primary-600 dark:text-primary-400">t.me/cyber_ansh</a>
+              Telegram: <a href="https://t.me/censored_politicsss" target="_blank" rel="noopener noreferrer" className="text-primary-600 dark:text-primary-400">Krishan</a>
             </p>
             <p className="text-gray-600 dark:text-gray-400">
-              Email: <a href="mailto:contact@example.com" className="text-primary-600 dark:text-primary-400">contact@example.com</a>
+              Email: <a href="mailto:contact@example.com" className="text-primary-600 dark:text-primary-400">krishanmbv@fearlessmails.com</a>
             </p>
           </div>
         </div>
@@ -80,8 +80,8 @@ const Footer: React.FC = () => {
         <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-800 text-center">
           <p className="text-gray-600 dark:text-gray-400 flex items-center justify-center">
             Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> by 
-            <a href="https://instagram.com/anshopi__" target="_blank" rel="noopener noreferrer" className="ml-1 text-primary-600 dark:text-primary-400 hover:underline">
-              Ansh
+            <a href="https://instagram.com/krishan_politics" target="_blank" rel="noopener noreferrer" className="ml-1 text-primary-600 dark:text-primary-400 hover:underline">
+              Krishan
             </a>
           </p>
           <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">
